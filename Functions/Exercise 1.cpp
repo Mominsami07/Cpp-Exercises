@@ -1,3 +1,5 @@
+// Define two Functions to print the maximum and the minimum number respectively among three numbers entered by the user.
+
 #include <iostream>
 using namespace std;
 
